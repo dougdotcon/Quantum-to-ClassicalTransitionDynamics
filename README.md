@@ -1,6 +1,6 @@
 # Quantum-to-Classical Transition Dynamics ($M_c$)
 
-[![Status](https://img.shields.io/badge/Status-IN_PROGRESS-yellow?style=for-the-badge)](.)
+[![Status](https://img.shields.io/badge/Status-M_c_FOUND-00C853?style=for-the-badge)](.)
 
 > **"The boundary between the quantum and classical worlds is not arbitrary. It is defined by the stability of spacetime information."**
 
